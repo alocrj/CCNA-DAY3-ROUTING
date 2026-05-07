@@ -107,3 +107,7 @@ neighbor 208.8.8.4 remote-as 45
 network 209.9.9.0 mask 255.255.255.0
 network 207.7.7.0 mask 255.255.255.0
 neighbor 208.8.8.4 remote-as 45
+
+
+routing
+

@@ -111,3 +111,12 @@ neighbor 208.8.8.4 remote-as 45
 
 routing
 
+SITE TO SITE VPN:
+vpn = Hash(protect Orig Data) = sha256/sha1/md5 
+      +  Encryption(Hide the Data anybody!
+        AES: Advanced Encryption Standard
+        DES: digital Enc Standard
+        RSA : rivest,shaMir,Adelman) 
+        IPSEC: 
+         + Tunnel: hIDE your IPAddress
+            PPTP, L2TP, GRE, ipsec
